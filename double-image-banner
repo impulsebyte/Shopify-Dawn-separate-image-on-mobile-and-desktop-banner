@@ -180,7 +180,7 @@
     {
       "type": "checkbox",
       "id": "show_text_box",
-      "default": true,
+      "default": false,
       "label": "t:sections.image-banner.settings.show_text_box.label"
     },
     {
