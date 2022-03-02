@@ -14,9 +14,6 @@
 	display: none;
 }
   }
-.banner__box > :first-child {
-	color: #000;
-}
 
   @media screen and (min-width: 750px) {
     #Banner-{{ section.id }}::before,
